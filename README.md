@@ -1,69 +1,50 @@
-# INX-Future-Inc.-Employee-Performance-Analysis-and-Prediction-IABAC
+# Employee Performance Analysis: INX Future Inc.
 
-## Project Overview
+Certified Data Scientist project (project code 10281) for the International Association of Business Analytics Certification (IABAC).
 
-This project analyzes employee performance data for INX Future Inc. to identify the key factors influencing employee performance and provide data-driven recommendations for improvement.
+**Start with `Project Summary/Summary.md`.** It contains the answers to the four required insights.
 
-The project focuses on understanding employee performance across departments, identifying the most important factors affecting performance, and developing a machine learning model capable of predicting employee performance based on relevant input factors.
+## How to run
 
-## Business Problem
+```bash
+pip install -r requirements.txt
+# then run the notebooks in this order (each one saves outputs for the next):
+#   src/data_processing/data_processing.ipynb
+#   src/data_processing/data_exploratory_analysis.ipynb
+#   src/models/train_model.ipynb       (takes a few minutes)
+#   src/models/predict_model.ipynb
+#   src/visualization/visualize.ipynb
+```
+All notebooks are already executed, so outputs can be read without re-running.
 
-INX Future Inc. has observed unhealthy employee performance indexes, along with increasing service delivery escalations and a decline in client satisfaction.
+## Structure (as required by the submission guidelines)
 
-The objective of this project is to analyze employee data and identify the underlying factors responsible for performance issues. The analysis is intended to support management in making informed decisions and improving employee performance.
-
-## Project Objectives
-
-The major objectives of this project are:
-
-1. Analyze employee performance department-wise.
-2. Identify the top three factors affecting employee performance.
-3. Build a machine learning model to predict employee performance.
-4. Provide recommendations to improve employee performance.
-5. Identify important employee characteristics that can support future hiring decisions.
-
-## Project Workflow
-
-The project follows these major steps:
-
-1. Data Collection
-2. Data Understanding
-3. Data Cleaning and Preprocessing
-4. Exploratory Data Analysis
-5. Feature Selection and Engineering
-6. Model Training
-7. Model Evaluation
-8. Employee Performance Prediction
-9. Visualization
-10. Business Insights and Recommendations
-
-## Project Structure
-
-```text
-Employee-Performance-Analysis/
-│
-├── Project Summary/
-│   ├── Requirement/
-│   ├── Analysis/
-│   └── Summary/
-│
-├── data/
-│   ├── external/
-│   ├── processed/
-│   └── raw/
-│
-├── src/
-│   ├── Data Processing/
+```
+INX_Future_Employee_Performance_Project
+├── Project Summary
+│   ├── Requirement.md   <- what the project asks for, in plain language
+│   ├── Analysis.md      <- choices made: data preparation, features, algorithm, results
+│   └── Summary.md       <- summary, answers, insights and recommendations
+├── data
+│   ├── external         <- (none used)
+│   ├── processed        <- cleaned, model-ready data and the watch list
+│   └── raw              <- the original, unmodified workbook
+├── src
+│   ├── data_processing
 │   │   ├── data_processing.ipynb
 │   │   └── data_exploratory_analysis.ipynb
-│   │
-│   ├── models/
+│   ├── models
 │   │   ├── train_model.ipynb
-│   │   └── predict_model.ipynb
-│   │
-│   └── visualization/
-│       └── visualize.ipynb
-│
-├── references/
-│
-└── README.md
+│   │   ├── predict_model.ipynb
+│   │   └── artifacts     <- trained models, metrics, importances, predictions
+│   └── visualization
+│       ├── visualize.ipynb
+│       └── figures       <- the nine result figures (PNG)
+└── references           <- data definitions and the original project documents
+```
+
+## Headline results
+- Random Forest: 93.3% accuracy, macro F1 0.90 on 240 unseen employees.
+- Top 3 factors: environment satisfaction, last salary hike percentage, time since last promotion.
+- Weakest departments: Finance, Sales, Research & Development. Strongest: Development, Data Science.
+- A model using only candidate information (for hiring) is barely better than chance.

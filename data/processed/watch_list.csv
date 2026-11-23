@@ -1,0 +1,216 @@
+EmpNumber,EmpDepartment,EmpJobRole,ActualRating,PredictedRating,Prob_Rating2,Prob_Rating3,Prob_Rating4,EmpEnvironmentSatisfaction,EmpLastSalaryHikePercent,YearsSinceLastPromotion,EmpWorkLifeBalance,OnWatchList
+E1001167,Sales,Sales Executive,3,2,1.0,0.0,0.0,2,14,5,3,True
+E1001979,Research & Development,Research Scientist,2,2,1.0,0.0,0.0,2,12,8,3,True
+E1002091,Research & Development,Research Scientist,2,2,0.9967,0.0033,0.0,1,13,1,2,True
+E1002302,Sales,Sales Executive,2,2,0.9967,0.0033,0.0,1,19,3,3,True
+E1002264,Sales,Sales Executive,2,2,0.9967,0.0033,0.0,2,14,5,3,True
+E1002335,Research & Development,Manufacturing Director,2,2,0.9967,0.0033,0.0,2,19,1,3,True
+E1001821,Research & Development,Research Scientist,2,2,0.9933,0.0067,0.0,1,17,3,3,True
+E1001685,Research & Development,Research Scientist,3,2,0.9933,0.0067,0.0,1,12,1,3,True
+E1001831,Research & Development,Healthcare Representative,2,2,0.9933,0.0033,0.0033,1,12,7,3,True
+E1002107,Research & Development,Healthcare Representative,2,2,0.9933,0.0067,0.0,2,12,7,3,True
+E1002247,Research & Development,Research Scientist,2,2,0.99,0.01,0.0,1,11,2,2,True
+E1001751,Research & Development,Manager R&D,2,2,0.99,0.01,0.0,1,14,1,2,True
+E1002082,Research & Development,Manager R&D,2,2,0.99,0.01,0.0,2,14,1,3,True
+E100811,Sales,Sales Executive,2,2,0.99,0.01,0.0,2,11,4,3,True
+E1002011,Sales,Sales Executive,2,2,0.99,0.0067,0.0033,2,13,2,3,True
+E1002056,Human Resources,Human Resources,2,2,0.99,0.01,0.0,2,13,1,3,True
+E1001713,Research & Development,Laboratory Technician,2,2,0.99,0.0067,0.0033,1,16,1,2,True
+E1001300,Research & Development,Healthcare Representative,2,2,0.99,0.01,0.0,1,13,2,3,True
+E1001305,Research & Development,Senior Manager R&D,2,2,0.99,0.01,0.0,1,18,2,3,True
+E1001516,Research & Development,Research Scientist,2,2,0.9867,0.0133,0.0,1,13,4,3,True
+E1001444,Research & Development,Research Director,2,2,0.9867,0.0133,0.0,2,17,2,2,True
+E1001428,Research & Development,Manufacturing Director,2,2,0.9867,0.0133,0.0,2,15,1,2,True
+E1001577,Research & Development,Laboratory Technician,2,2,0.9867,0.0133,0.0,2,13,7,3,True
+E1001840,Sales,Sales Executive,2,2,0.9867,0.0133,0.0,2,11,6,3,True
+E1001838,Sales,Sales Executive,2,2,0.9867,0.0133,0.0,1,13,2,1,True
+E1002018,Sales,Manager,2,2,0.9867,0.0133,0.0,2,14,12,2,True
+E100403,Sales,Sales Executive,2,2,0.9833,0.0167,0.0,2,16,5,3,True
+E100805,Sales,Sales Executive,2,2,0.9833,0.0167,0.0,2,11,1,3,True
+E100453,Sales,Sales Executive,2,2,0.9833,0.0167,0.0,2,11,2,3,True
+E1001135,Sales,Sales Executive,3,2,0.9833,0.0167,0.0,2,14,4,2,True
+E1001745,Human Resources,Human Resources,2,2,0.9833,0.0167,0.0,1,15,2,3,True
+E1002246,Sales,Sales Executive,2,2,0.98,0.02,0.0,1,13,2,2,True
+E1002079,Sales,Sales Executive,2,2,0.98,0.02,0.0,2,15,2,3,True
+E100878,Sales,Sales Executive,2,2,0.98,0.0033,0.0167,2,11,6,3,True
+E1001890,Sales,Sales Executive,2,2,0.98,0.0167,0.0033,1,15,4,3,True
+E100990,Sales,Sales Executive,3,2,0.98,0.0167,0.0033,2,12,2,3,True
+E1001937,Finance,Finance Manager,2,2,0.9767,0.0233,0.0,1,11,1,3,True
+E1001972,Finance,Finance Manager,2,2,0.9767,0.0133,0.01,1,12,1,3,True
+E1001918,Finance,Finance Manager,2,2,0.9767,0.0233,0.0,2,11,7,1,True
+E1002158,Sales,Sales Executive,2,2,0.9767,0.02,0.0033,2,13,1,3,True
+E1002115,Research & Development,Manager R&D,2,2,0.9767,0.0233,0.0,1,14,2,3,True
+E1001774,Research & Development,Manager R&D,2,2,0.9733,0.0267,0.0,2,18,2,2,True
+E1001171,Sales,Sales Representative,3,2,0.9733,0.0267,0.0,2,19,1,3,True
+E1001887,Finance,Finance Manager,2,2,0.9733,0.02,0.0067,2,12,1,2,True
+E1002092,Research & Development,Healthcare Representative,2,2,0.9733,0.0267,0.0,2,12,1,1,True
+E100506,Sales,Sales Executive,2,2,0.9733,0.0267,0.0,2,12,7,3,True
+E1002319,Sales,Sales Executive,2,2,0.9733,0.0267,0.0,1,11,1,3,True
+E100599,Human Resources,Human Resources,2,2,0.97,0.03,0.0,2,17,2,2,True
+E1001886,Finance,Finance Manager,2,2,0.97,0.0233,0.0067,2,14,1,2,True
+E1001545,Sales,Manager,2,2,0.97,0.0033,0.0267,2,11,3,3,True
+E1001360,Research & Development,Senior Manager R&D,2,2,0.97,0.03,0.0,2,12,1,2,True
+E1001758,Research & Development,Laboratory Technician,2,2,0.97,0.03,0.0,1,13,5,3,True
+E1001763,Research & Development,Research Director,2,2,0.9667,0.0333,0.0,2,14,6,2,True
+E1001923,Sales,Sales Executive,2,2,0.9667,0.0333,0.0,1,14,2,2,True
+E1002253,Sales,Sales Executive,2,2,0.9667,0.03,0.0033,2,12,11,3,True
+E1001361,Research & Development,Laboratory Technician,2,2,0.9633,0.0367,0.0,1,16,1,3,True
+E1001811,Research & Development,Laboratory Technician,2,2,0.9633,0.0367,0.0,1,14,1,3,True
+E1001924,Finance,Finance Manager,2,2,0.9633,0.0367,0.0,1,13,1,3,True
+E100832,Sales,Sales Representative,3,2,0.9633,0.0333,0.0033,1,16,1,3,True
+E100875,Sales,Manager,2,2,0.9633,0.02,0.0167,1,23,7,3,True
+E1002024,Human Resources,Human Resources,2,2,0.9633,0.0367,0.0,1,14,2,3,True
+E1001009,Human Resources,Manager,3,2,0.9633,0.0367,0.0,2,15,12,2,True
+E1001858,Research & Development,Manager R&D,2,2,0.9633,0.0067,0.03,2,17,2,2,True
+E1002101,Sales,Sales Executive,2,2,0.9633,0.0333,0.0033,2,21,4,3,True
+E1001883,Finance,Finance Manager,2,2,0.9633,0.0367,0.0,2,14,1,2,True
+E1001731,Sales,Sales Executive,2,2,0.9633,0.0367,0.0,1,18,9,3,True
+E1001522,Research & Development,Manager R&D,2,2,0.96,0.0333,0.0067,1,14,6,2,True
+E1002209,Research & Development,Manager R&D,2,2,0.96,0.03,0.01,2,11,1,2,True
+E1002062,Sales,Sales Executive,2,2,0.96,0.0367,0.0033,1,14,5,3,True
+E1002298,Research & Development,Research Scientist,2,2,0.96,0.03,0.01,2,12,1,3,True
+E1002292,Research & Development,Research Scientist,2,2,0.9567,0.0267,0.0167,1,13,1,3,True
+E1002259,Research & Development,Healthcare Representative,2,2,0.9567,0.04,0.0033,2,12,1,2,True
+E1002083,Human Resources,Human Resources,2,2,0.9567,0.0433,0.0,1,13,3,3,True
+E100461,Sales,Sales Executive,2,2,0.9533,0.0467,0.0,1,18,2,3,True
+E1001405,Research & Development,Healthcare Representative,2,2,0.9533,0.0467,0.0,1,11,11,3,True
+E1001716,Research & Development,Research Scientist,2,2,0.9533,0.0233,0.0233,1,12,1,2,True
+E1001129,Sales,Manager,3,2,0.95,0.0467,0.0033,1,14,4,2,True
+E1001717,Sales,Sales Representative,2,2,0.95,0.05,0.0,1,12,2,3,True
+E1001827,Research & Development,Laboratory Technician,2,2,0.95,0.05,0.0,2,12,5,3,True
+E1001640,Sales,Sales Executive,2,2,0.95,0.05,0.0,1,16,6,2,True
+E1002287,Research & Development,Healthcare Representative,2,2,0.95,0.05,0.0,2,13,8,3,True
+E1001943,Finance,Finance Manager,2,2,0.95,0.0267,0.0233,2,25,4,3,True
+E1001063,Sales,Sales Executive,3,2,0.9467,0.0467,0.0067,2,12,1,3,True
+E100759,Sales,Sales Executive,2,2,0.9467,0.05,0.0033,1,11,1,3,True
+E1002166,Research & Development,Manufacturing Director,2,2,0.9467,0.0533,0.0,2,13,3,2,True
+E1001395,Sales,Sales Executive,2,2,0.9433,0.0567,0.0,2,13,4,3,True
+E100316,Sales,Manager,2,2,0.9433,0.0533,0.0033,2,12,2,2,True
+E1002207,Sales,Sales Executive,2,2,0.9433,0.0533,0.0033,1,19,1,3,True
+E1002141,Sales,Sales Executive,2,2,0.9433,0.05,0.0067,1,12,2,3,True
+E100338,Sales,Sales Executive,2,2,0.9433,0.0333,0.0233,2,20,8,3,True
+E100873,Sales,Sales Executive,2,2,0.94,0.06,0.0,2,14,6,3,True
+E1001331,Research & Development,Research Scientist,2,2,0.94,0.0467,0.0133,1,14,1,3,True
+E1001124,Sales,Sales Executive,3,2,0.94,0.0367,0.0233,2,20,7,3,True
+E1001396,Research & Development,Healthcare Representative,2,2,0.9367,0.05,0.0133,2,19,4,3,True
+E1001597,Sales,Sales Executive,2,2,0.9367,0.0167,0.0467,2,19,7,2,True
+E1002271,Research & Development,Manager R&D,2,2,0.9367,0.0367,0.0267,1,23,12,3,True
+E100301,Sales,Manager,2,2,0.9367,0.0633,0.0,1,16,3,3,True
+E1002291,Sales,Sales Representative,2,2,0.9367,0.0633,0.0,2,14,2,3,True
+E1001680,Research & Development,Research Scientist,2,2,0.9333,0.0667,0.0,1,14,1,1,True
+E100441,Sales,Sales Executive,2,2,0.9333,0.0667,0.0,2,18,7,2,True
+E1002274,Sales,Sales Representative,2,2,0.9333,0.0667,0.0,1,19,1,3,True
+E1002134,Research & Development,Laboratory Technician,2,2,0.9333,0.06,0.0067,2,12,2,3,True
+E1001466,Sales,Sales Executive,2,2,0.9333,0.0167,0.05,1,13,1,2,True
+E100665,Sales,Sales Executive,2,2,0.9333,0.0567,0.01,2,25,11,3,True
+E1002142,Sales,Sales Representative,2,2,0.93,0.0533,0.0167,2,21,5,3,True
+E1001370,Research & Development,Senior Manager R&D,2,2,0.93,0.0333,0.0367,1,20,11,3,True
+E100903,Sales,Manager,2,2,0.93,0.0633,0.0067,2,16,11,3,True
+E1001669,Sales,Sales Executive,2,2,0.93,0.06,0.01,2,11,3,3,True
+E1002334,Sales,Sales Executive,2,2,0.9267,0.0733,0.0,2,11,9,2,True
+E1001933,Finance,Finance Manager,2,2,0.9267,0.0733,0.0,1,16,1,3,True
+E1001899,Finance,Finance Manager,2,2,0.9267,0.0733,0.0,2,11,1,3,True
+E1001485,Human Resources,Human Resources,2,2,0.9267,0.0733,0.0,2,13,1,3,True
+E1002228,Sales,Sales Executive,2,2,0.9267,0.0567,0.0167,1,21,2,2,True
+E1001655,Research & Development,Laboratory Technician,2,2,0.9267,0.0733,0.0,2,13,7,3,True
+E1001372,Research & Development,Senior Manager R&D,2,2,0.9233,0.0767,0.0,1,19,1,3,True
+E1002111,Sales,Sales Executive,2,2,0.9233,0.0667,0.01,1,14,2,3,True
+E1001586,Research & Development,Research Scientist,2,2,0.9233,0.07,0.0067,1,12,2,3,True
+E1001868,Finance,Finance Manager,2,2,0.92,0.02,0.06,1,19,1,4,True
+E100998,Sales,Sales Executive,2,2,0.92,0.0533,0.0267,1,14,2,3,True
+E1001874,Finance,Finance Manager,2,2,0.92,0.08,0.0,2,17,6,2,True
+E1001653,Research & Development,Manager R&D,2,2,0.9167,0.0533,0.03,2,20,11,3,True
+E1002346,Research & Development,Laboratory Technician,3,2,0.91,0.0867,0.0033,2,12,1,4,True
+E1001761,Research & Development,Research Scientist,2,2,0.91,0.04,0.05,2,24,2,2,True
+E1001555,Sales,Manager,2,2,0.91,0.06,0.03,1,16,1,3,True
+E1001322,Sales,Sales Representative,2,2,0.9067,0.0933,0.0,2,19,2,2,True
+E1001346,Research & Development,Research Scientist,2,2,0.9067,0.0933,0.0,1,13,1,3,True
+E1002293,Research & Development,Research Director,2,2,0.9067,0.0933,0.0,2,12,1,3,True
+E1002194,Research & Development,Laboratory Technician,2,2,0.9067,0.0933,0.0,1,12,2,2,True
+E100522,Sales,Sales Executive,2,2,0.9033,0.0467,0.05,2,25,15,3,True
+E1001293,Research & Development,Research Director,2,2,0.9033,0.0967,0.0,2,12,1,2,True
+E1001402,Sales,Manager,2,2,0.9033,0.0933,0.0033,1,12,4,3,True
+E1001864,Research & Development,Manager R&D,2,2,0.9033,0.09,0.0067,2,18,1,3,True
+E1002030,Sales,Sales Representative,2,2,0.9033,0.0967,0.0,2,13,2,3,True
+E100766,Sales,Sales Executive,2,2,0.9,0.0967,0.0033,1,18,7,3,True
+E1001677,Sales,Sales Executive,2,2,0.9,0.1,0.0,1,11,1,2,True
+E1001010,Sales,Sales Executive,3,2,0.8967,0.0567,0.0467,1,14,2,3,True
+E1001967,Finance,Finance Manager,2,2,0.8967,0.1033,0.0,2,15,1,3,True
+E1002219,Research & Development,Manager R&D,2,2,0.8967,0.0967,0.0067,2,15,4,3,True
+E1001633,Sales,Sales Executive,2,2,0.8967,0.1033,0.0,2,15,1,3,True
+E1001376,Human Resources,Human Resources,2,2,0.8967,0.1,0.0033,2,14,3,3,True
+E1001313,Research & Development,Research Director,2,2,0.8933,0.0533,0.0533,2,22,5,3,True
+E1001297,Research & Development,Laboratory Technician,2,2,0.8867,0.11,0.0033,2,15,1,2,True
+E1001974,Research & Development,Manager R&D,2,2,0.8867,0.0867,0.0267,2,14,4,4,True
+E1001650,Sales,Sales Executive,2,2,0.8867,0.1133,0.0,1,17,3,2,True
+E1002127,Sales,Sales Executive,2,2,0.8833,0.08,0.0367,1,20,7,3,True
+E100485,Sales,Sales Executive,2,2,0.88,0.1033,0.0167,2,14,3,3,True
+E1002102,Sales,Manager,2,2,0.88,0.0633,0.0567,2,22,14,2,True
+E100359,Sales,Sales Executive,2,2,0.88,0.1,0.02,1,11,7,2,True
+E1001524,Research & Development,Manager R&D,2,2,0.8767,0.12,0.0033,1,13,7,3,True
+E1001061,Sales,Sales Representative,3,2,0.8733,0.1267,0.0,2,13,3,3,True
+E1001316,Sales,Manager,2,2,0.8667,0.13,0.0033,1,15,6,3,True
+E100870,Sales,Sales Executive,2,2,0.8633,0.1267,0.01,2,14,9,2,True
+E100352,Sales,Sales Executive,2,2,0.8633,0.0667,0.07,2,22,1,2,True
+E1001668,Sales,Sales Executive,2,2,0.86,0.14,0.0,1,12,1,4,True
+E1001798,Research & Development,Manager R&D,2,2,0.86,0.0867,0.0533,2,20,1,3,True
+E1001219,Sales,Sales Representative,3,2,0.8567,0.1,0.0433,2,15,5,4,True
+E1001394,Research & Development,Manager R&D,2,2,0.8567,0.09,0.0533,1,22,2,2,True
+E100574,Data Science,Data Scientist,3,2,0.8567,0.13,0.0133,2,16,4,1,True
+E1001698,Research & Development,Manager R&D,3,2,0.8533,0.0733,0.0733,1,20,1,3,True
+E1001449,Sales,Sales Executive,4,2,0.85,0.15,0.0,2,13,1,4,True
+E1001911,Finance,Finance Manager,2,2,0.85,0.1467,0.0033,1,13,3,1,True
+E100791,Sales,Sales Executive,2,2,0.8467,0.1067,0.0467,2,13,9,3,True
+E1001557,Research & Development,Laboratory Technician,2,2,0.8467,0.1367,0.0167,1,20,2,1,True
+E100589,Sales,Sales Representative,2,2,0.8433,0.1567,0.0,1,17,5,3,True
+E1001315,Sales,Sales Executive,2,2,0.8367,0.1533,0.01,2,18,2,3,True
+E1002305,Research & Development,Research Scientist,2,2,0.83,0.1567,0.0133,1,14,2,4,True
+E100869,Data Science,Data Scientist,3,2,0.8233,0.1633,0.0133,2,17,2,3,True
+E100762,Sales,Sales Representative,2,2,0.8233,0.0833,0.0933,1,24,2,2,True
+E1001441,Sales,Sales Executive,2,2,0.82,0.14,0.04,2,20,1,2,True
+E1001379,Research & Development,Research Scientist,2,2,0.8067,0.15,0.0433,1,22,3,3,True
+E100702,Human Resources,Human Resources,2,2,0.8067,0.12,0.0733,1,12,1,3,True
+E100961,Development,Senior Developer,3,2,0.7933,0.2033,0.0033,2,12,8,2,True
+E1001832,Sales,Sales Representative,2,2,0.7867,0.1833,0.03,2,23,4,3,True
+E100590,Sales,Sales Executive,2,2,0.7867,0.21,0.0033,2,14,4,3,True
+E1001884,Finance,Finance Manager,2,2,0.7867,0.2133,0.0,2,15,12,3,True
+E100428,Development,Business Analyst,3,2,0.78,0.2033,0.0167,2,12,1,3,True
+E1002185,Research & Development,Manager R&D,2,2,0.7733,0.0767,0.15,1,16,1,3,True
+E100902,Development,Senior Developer,2,2,0.7667,0.23,0.0033,1,11,1,2,True
+E100922,Human Resources,Manager,2,2,0.7633,0.23,0.0067,1,11,10,3,True
+E1001306,Research & Development,Laboratory Technician,2,2,0.7533,0.1233,0.1233,2,20,1,2,True
+E1001767,Sales,Sales Executive,2,2,0.7533,0.1367,0.11,1,23,10,4,True
+E1001764,Sales,Sales Representative,2,2,0.7533,0.18,0.0667,1,15,1,4,True
+E1001708,Research & Development,Research Director,3,2,0.75,0.0967,0.1533,1,11,1,4,True
+E1001719,Research & Development,Manager R&D,4,2,0.7433,0.1667,0.09,1,22,1,4,True
+E100483,Sales,Sales Representative,2,2,0.74,0.24,0.02,2,20,4,1,True
+E100931,Sales,Sales Executive,2,2,0.7333,0.1733,0.0933,1,22,5,4,True
+E100919,Sales,Sales Executive,3,2,0.7333,0.11,0.1567,1,20,1,4,True
+E100756,Sales,Sales Representative,2,2,0.7267,0.2733,0.0,1,11,1,3,True
+E100607,Sales,Manager,2,2,0.7067,0.25,0.0433,1,18,15,4,True
+E100659,Development,Technical Lead,3,2,0.7033,0.2367,0.06,2,18,6,2,True
+E1001673,Sales,Sales Executive,2,2,0.7,0.1367,0.1633,2,13,1,4,True
+E100980,Development,Senior Developer,3,2,0.6933,0.3033,0.0033,1,11,9,3,True
+E100809,Development,Senior Developer,2,2,0.6933,0.2833,0.0233,2,14,1,3,True
+E1002170,Research & Development,Manager R&D,2,2,0.6933,0.3033,0.0033,1,11,11,3,True
+E1001339,Research & Development,Senior Manager R&D,3,2,0.69,0.2767,0.0333,2,11,7,2,True
+E1001826,Sales,Sales Executive,2,2,0.69,0.1467,0.1633,1,12,7,4,True
+E100561,Sales,Sales Executive,2,2,0.6733,0.19,0.1367,2,22,1,2,True
+E100703,Development,Technical Lead,3,2,0.6567,0.3367,0.0067,1,18,9,3,True
+E100346,Sales,Sales Executive,2,2,0.6567,0.22,0.1233,2,21,1,2,True
+E100862,Development,Developer,3,2,0.65,0.3267,0.0233,1,13,1,3,True
+E100928,Sales,Sales Executive,3,2,0.6333,0.34,0.0267,2,17,1,1,True
+E100306,Development,Developer,3,2,0.6033,0.37,0.0267,1,11,2,3,True
+E100388,Development,Business Analyst,3,2,0.5967,0.3867,0.0167,1,15,1,3,True
+E100807,Development,Senior Developer,3,2,0.59,0.4067,0.0033,2,15,10,3,True
+E100542,Development,Technical Lead,3,2,0.5833,0.34,0.0767,1,23,11,3,True
+E1001743,Research & Development,Manager R&D,3,2,0.5733,0.3767,0.05,2,18,1,4,True
+E1002003,Research & Development,Laboratory Technician,2,2,0.57,0.3133,0.1167,2,13,1,4,True
+E100296,Development,Senior Developer,2,2,0.56,0.4367,0.0033,2,11,1,3,True
+E100847,Development,Senior Developer,3,2,0.56,0.44,0.0,2,15,15,3,True
+E100969,Development,Senior Developer,3,2,0.55,0.44,0.01,2,13,11,3,True
+E1001166,Development,Senior Developer,3,2,0.5433,0.42,0.0367,1,17,3,2,True
+E100800,Development,Developer,3,2,0.5433,0.4567,0.0,1,11,1,2,True
+E1001070,Development,Developer,3,2,0.52,0.4333,0.0467,1,14,2,3,True
+E1001812,Research & Development,Laboratory Technician,3,2,0.52,0.4767,0.0033,4,14,1,1,True
+E1001183,Development,Developer,3,2,0.5067,0.4767,0.0167,1,11,14,3,True

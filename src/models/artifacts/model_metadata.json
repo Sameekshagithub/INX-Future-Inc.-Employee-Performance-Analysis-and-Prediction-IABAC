@@ -1,0 +1,77 @@
+{
+  "input_columns": [
+    "Age",
+    "Gender",
+    "EducationBackground",
+    "MaritalStatus",
+    "EmpDepartment",
+    "EmpJobRole",
+    "BusinessTravelFrequency",
+    "DistanceFromHome",
+    "EmpEducationLevel",
+    "EmpEnvironmentSatisfaction",
+    "EmpHourlyRate",
+    "EmpJobInvolvement",
+    "EmpJobLevel",
+    "EmpJobSatisfaction",
+    "NumCompaniesWorked",
+    "OverTime",
+    "EmpLastSalaryHikePercent",
+    "EmpRelationshipSatisfaction",
+    "TotalWorkExperienceInYears",
+    "TrainingTimesLastYear",
+    "EmpWorkLifeBalance",
+    "ExperienceYearsAtThisCompany",
+    "ExperienceYearsInCurrentRole",
+    "YearsSinceLastPromotion",
+    "YearsWithCurrManager",
+    "Attrition",
+    "PromotionDelayRatio",
+    "RoleStagnationRatio",
+    "AvgYearsPerCompany"
+  ],
+  "classes": [
+    2,
+    3,
+    4
+  ],
+  "metrics": {
+    "selected_model": "Random Forest",
+    "cv_macro_f1": 0.8916082035869308,
+    "test_accuracy": 0.9333333333333333,
+    "test_macro_f1": 0.9021134421134421,
+    "test_balanced_accuracy": 0.8926495726495727,
+    "baseline_accuracy_always_3": 0.7291666666666666,
+    "n_train": 960,
+    "n_test": 240,
+    "top3_only_test_accuracy": 0.8583333333333333,
+    "top3_only_test_macro_f1": 0.808165221063574,
+    "prehire_test_accuracy": 0.49583333333333335,
+    "prehire_test_macro_f1": 0.3349806047080079,
+    "prehire_test_balanced_accuracy": 0.3704273504273505,
+    "prehire_features": [
+      "Age",
+      "EducationBackground",
+      "EmpEducationLevel",
+      "NumCompaniesWorked",
+      "TotalWorkExperienceInYears",
+      "DistanceFromHome",
+      "EmpDepartment",
+      "EmpJobRole",
+      "BusinessTravelFrequency",
+      "EmpHourlyRate",
+      "EmpJobLevel",
+      "AvgYearsPerCompany"
+    ]
+  },
+  "top3_factors": [
+    "EmpEnvironmentSatisfaction",
+    "EmpLastSalaryHikePercent",
+    "PromotionDelayRatio"
+  ],
+  "ordinal_travel_order": [
+    "Non-Travel",
+    "Travel_Rarely",
+    "Travel_Frequently"
+  ]
+}
